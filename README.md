@@ -17,12 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
----
-
-### 📌 Pinned Projects
-- 🔗 [**DjangoProject**](https://github.com/berhoumaeya/DjangoProject) – A web app using Django framework.
-- 🔗 [**flaskProject**](https://github.com/berhoumaeya/flaskProject) – Lightweight backend project with Flask.
-- 🔗 [**alumni-platform**](https://github.com/berhoumaeya/alumni-platform) – Platform to manage alumni data and interactions.
 
 ---
 
